@@ -34,11 +34,17 @@
 Установка зависимостей:
 pip install -r requirements.txt
 
-Обучение модели
+Обучение модели:
 
 python src/train.py
 Запуск инференса:
 python src/predict.py
+
+Результаты
+
+Пример детекции:
+
+![result](results/sample_output.jpg)
 
 Стажировка
 
