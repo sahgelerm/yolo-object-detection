@@ -33,12 +33,15 @@
 Как запустить проект
 
 Установка зависимостей:
+
 pip install -r requirements.txt
 
 Обучение модели:
 
 python src/train.py
+
 Запуск инференса:
+
 python src/predict.py
 
 Результаты
